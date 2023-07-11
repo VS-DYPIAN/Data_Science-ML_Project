@@ -1,0 +1,11 @@
+Model 1 outputs : Decision Tree
+Mean:  -19.241659146341462
+Standard_deviation :  6.900679069015194
+
+Model 2 outputs :Linear Regression
+Mean:  -26.49978897713455
+Standard_deviation :  11.815004656490633
+
+Model 2 outputs :RandomForestRegressor
+Mean:  -11.507116526524388
+Standard_deviation :  5.230115726804532
